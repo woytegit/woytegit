@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @woytegit
 - 👀 I’m interested in software engineering, image processing, 3d modeling, and FPV drones
-- 🌱 I’m currently learning simple game development in Unity
 
 <!---
 woytegit/woytegit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
